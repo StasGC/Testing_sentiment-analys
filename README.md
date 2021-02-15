@@ -1,4 +1,4 @@
-# Testing_sentment-analys
+# Testing_sentiment-analys
 
 Решение тестового задания для преокта "Определение стилистики текста".
 
